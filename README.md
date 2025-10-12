@@ -51,5 +51,5 @@ A simple **Flutter-based shopping app** where users can browse products and add 
 
 Run the app:
 --
-``bash
+```bash
 flutter run
