@@ -1,7 +1,10 @@
-# my_app
 
-A new Flutter project.
+## 👩‍💻 Developer
 
+**Author:** Zainab Mughal
+**Focus:** Cybersecurity & Web App Development
+
+---
 ## Getting Started
 
 This project is a starting point for a Flutter application.
